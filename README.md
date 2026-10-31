@@ -89,9 +89,6 @@ Before running:
 Medicine_Rec_System/
 ├── notebooks/
 │   └── BDA_Drug_Prescription.ipynb                  # Data prep, embeddings, LSH / SimHash / FAISS search
-├── docs/
-│   ├── Automated_Drug_Prescription_System.pptx      # Project presentation
-│   └── Automated_Drug_Prescription_System_Demo.mp4  # Recorded presentation/demo (~41 MB)
 ├── assets/
 │   └── query_recommendation_example.png             # Slide 10 of the presentation
 ├── requirements.txt
