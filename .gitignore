@@ -1,0 +1,12 @@
+# Datasets and generated embeddings (downloaded/created by the notebook)
+Dataset1/
+Dataset2/
+Embeddings/
+*.csv
+*.npy
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+docs/

@@ -1,0 +1,12 @@
+# Inferred from the notebook imports. Versions were not pinned in the original
+# environment (Google Colab, Python 3.10). For reference, the Colab install log in the
+# GitHub copy of this notebook shows pyLSHash 0.2.3, faiss-cpu 1.9.0.post1,
+# kagglehub 0.3.5 and numpy 1.26.4.
+# `google.colab` is only used to mount Google Drive and is available on Colab only.
+torch
+transformers
+pandas
+numpy
+kagglehub
+pyLSHash
+faiss-cpu
